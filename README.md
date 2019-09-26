@@ -16,7 +16,7 @@ VueやReactなどを使う
 3. 閲覧リクエストに対してsample.json.jsのuserのようなデータを返す
 
 
-###gitについて
+### gitについて
 githubのアドレス : https://github.com/hyperkinoko/ewa-obog
 
 * masterブランチは基本触らない
