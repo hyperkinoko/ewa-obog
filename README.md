@@ -15,6 +15,15 @@ VueやReactなどを使う
 2. 認証に関してはfirebase Authenticationを使う
 3. 閲覧リクエストに対してsample.json.jsのuserのようなデータを返す
 
+###gitについて
+githubのアドレス : https://github.com/hyperkinoko/ewa-obog
+
+* masterブランチは基本触らない
+* prototypeはreactとvueとangularを作る予定（KINOKOが勉強するため）
+* ブランチは各masterか各prototype、または他人のdevから好きなものを選んで切る
+* ブランチ名は　dev/xxx/yourname （xxxにはreactかvueかangular、またはそれ以外の技術ならそれを書く）
+* ブランチをpushする（権限が必要ならLINEで言ってください）
+
 ##編集担当が毎年すること
 
 ・自己紹介の質問部分を作る→questionsにデータが入る[質問設定画面]()
